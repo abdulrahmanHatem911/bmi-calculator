@@ -44,7 +44,7 @@ class BMIResultScreen extends StatelessWidget {
             height: 220.0,
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(10.0),
-              color: Color(0xFF1D1E33),
+              color: const Color(0xFF1D1E33),
             ),
             child: Padding(
               padding: const EdgeInsets.all(20.0),
